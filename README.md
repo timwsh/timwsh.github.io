@@ -1,4 +1,4 @@
-## Matt Chapman's data science and ML portfolio project
+## Sze Hang Wong's (Timothy Wong's) data science and ML portfolio project
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
