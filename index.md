@@ -25,9 +25,7 @@ The results show that if higher salary is desired but affordability for housing 
 - For overall performance for the rent paid, other than Cumbria County and Thurrock mentioned above, local authorities in the outskirts of London (South East and East of England) can be the choices.
 - Fareham is a new discover. Located between Portsmouth and Southampton, it is benefitted from the job opportunities from these 2 cities.
 
-<img src="images/Gross Annual Pay vs Flat Price.png?raw=true" />
-<img src="images/Median gross annual pay.png?raw=true" />
-<img src="images/Median flat price.png?raw=true" />
+<img src="images/Gross Annual Pay vs Flat Price.png?raw=true" /><img src="images/Median gross annual pay.png?raw=true" /><img src="images/Median flat price.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
