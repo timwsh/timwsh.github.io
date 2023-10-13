@@ -8,6 +8,8 @@ Human values are broad motivational goals --- when we think about values, we thi
 
 This github repository consists of all the data, models and python code to recreate my MSc Data Science project for "Identifying Context-Specific Values in Arguments". This project heavily relys on BERT (Bidirectional Encoder Representations from Transformers) models, which is a Neural Networks Model, to identify human values under text documents.
 
+<img src="images/New plan3.drawio.png?raw=true" />
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on Github](https://github.com/timwsh/Timothy-Wong-MSc-DS-Project)
