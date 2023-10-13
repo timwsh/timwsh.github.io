@@ -4,9 +4,26 @@
 
 ### NLP project for Identifying Context-Specific Values in Arguments
 
-Human values are broad motivational goals --- when we think about values, we think of what is important to us in life. We find an argument from others as persuasive or not based on whether or not that argument promotes the values we prefer. For example, a person preferring the value of freedom may find the argument ``loneliness and isolation are a bigger killer than corona'' persuasive in favour of lifting Covid-19 restrictions. Value preferences, however, are context specific. A person with a preference for freedom over safety in Covid-19 context may prefer safety over freedom in another context. This project seeks to create a highly computerised method to identify context-specific values in arguments.
+Human values are broad motivational goals --- when we think about values, we think of what is important to us in life. We find an argument from others as persuasive or not based on whether or not that argument promotes the values we prefer. For example, a person preferring the value of freedom may find the argument "loneliness and isolation are a bigger killer than corona" persuasive in favour of lifting Covid-19 restrictions. Value preferences, however, are context specific. A person with a preference for freedom over safety in Covid-19 context may prefer safety over freedom in another context. This project seeks to create a highly computerised method to identify context-specific values in arguments.
 
 This github repository consists of all the data, models and python code to recreate my MSc Data Science project for "Identifying Context-Specific Values in Arguments". This project heavily relys on BERT (Bidirectional Encoder Representations from Transformers) models, which is a Neural Networks Model, to identify human values under text documents.
+
+<img src="images/New plan3.drawio.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Github](https://github.com/timwsh/Timothy-Wong-MSc-DS-Project)
+
+---
+
+### Analysing the best places the young people to live in England and Wales
+
+University students graduate in every September (including myself). Before that, they need to decide where to live and work. In this project, analysis on house price, salary, residents’ age, suicide rate, and personal well-being estimates on every local authority on the England and Wales.
+The results show that if higher salary is desired but affordability for housing is limited:
+- For higher disposable income, you may consider St Albans in Hertfordshire, Copeland in Cumbria, and Surrey County to take advantage of the high pay jobs.
+- For young age and low suicide rate, Thurrock from Essex is outstanding.
+- For overall performance for the rent paid, other than Cumbria County and Thurrock mentioned above, local authorities in the outskirts of London can be the choices.
+- Fareham is a new discover. Located between Portsmouth and Southampton, it is benefitted from the job opportunities from these 2 cities.
 
 <img src="images/New plan3.drawio.png?raw=true" />
 
