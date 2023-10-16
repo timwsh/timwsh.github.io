@@ -58,8 +58,6 @@ The results show that:
 
 ---
 
----
-
 ## Previous commercial projects
 A selection of analytical projects on the company's internal data.
 
@@ -72,6 +70,7 @@ Achievements:
 - Enabled the KPI metrics calculation to be handled by colleagues with less programming experience by highlighting key values in scripts to be changed and showing workflow in Alteryx, to optimise human resource allocation.
 
  ![](https://img.shields.io/badge/SPSS-white?logo=spss) ![](https://img.shields.io/badge/Microsoft_SQL_Server-white?logo=microsoftsqlserver) ![](https://img.shields.io/badge/Alteryx-white?logo=alteryx) ![](https://img.shields.io/badge/Tableau-white?logo=tableau) 
+
 
 #### Forecasting (simulation): 
 - Forecasted club members’ age and other interlocking demographic distributions in the next 3 decades to evaluate the impact of baby boomer on the club’s member composition and estimate the lifetime value of members.
