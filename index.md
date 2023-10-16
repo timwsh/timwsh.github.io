@@ -52,7 +52,7 @@ The results show that:
 - It might not be worthwhile to live in local authorities in the target clusters that are far from London. These local authorities do not have many neighbouring local authorities in the same target cluster (the highest number is 4 in Greater Manchester), so users may not be benefited from relevant job opportunities and have friends of similar age range from neighbouring local authorities, while they can have these advantages in local authorities around London.
 - Low unemployment rate and higher proportion of population in similar age range should not be overly pursued. From one of the low dimension representation variables, it was discovered that unemployment rate was positively correlated with the proportion of population aged 25-34. Therefore, a balance between the two requirements should be achieved, as a local authority that did well in one aspect was likely to be awful in another aspect.
 
-[Download Tableau visualisation](https://timwsh.github.io/projects/Geospatial%20and%20cluster%20analysis%20of%20th%20best%20places%20to%20live.twbx)
+[Download Tableau visualisation](https://timwsh.github.io/projects/Geospatial%20and%20cluster%20analysis%20of%20the%20best%20places%20to%20live.twbx)
 [View report (pdf)](https://colab.research.google.com/drive/1Vj53p-w16v3OoBsme0MPQ5MMUCSPCMuj?usp=sharing)
 
 
