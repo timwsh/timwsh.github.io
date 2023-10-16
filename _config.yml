@@ -7,9 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently I am keen to develop experience in work related to data science and data engineering.
   <br><br>
   <a href="https://www.linkedin.com/in/timothy-wong-a3215266">Visit my LinkedIn Profile</a> 
-  
+  <a href="https://timwsh.github.io/pdf/CV%20(SZE%20HANG%20WONG%2C%20Timothy).pdf">View my CV</a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 colors:
   crimson: '#900C3F'
+[View report (pdf)](https://timwsh.github.io/pdf/Geospatial%20and%20cluster%20analysis%20of%20the%20best%20places%20to%20live.pdf)
