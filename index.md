@@ -27,7 +27,7 @@ The results show that if higher salary is desired but affordability for housing 
 
 <img src="images/Gross Annual Pay vs Flat Price.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) ![](https://img.shields.io/badge/PyTorch-white?logo=pytorch) ![](https://img.shields.io/badge/Twitter-white?logo=Twitter) ![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)
 
 [View code on Colab](https://colab.research.google.com/drive/1Vj53p-w16v3OoBsme0MPQ5MMUCSPCMuj?usp=sharing)
 
@@ -36,14 +36,19 @@ The results show that if higher salary is desired but affordability for housing 
 ### Geospatial and cluster analysis of the best places for Data Science graduates to live in England and Wales
 
 This data visualisation work on Tableau is an follow-up of the previous project. It aims to utilised the visualization of geospatial data and culster analysis to provide necessary and relevant information for the users (MSc Data Science students) for the decision process of selecting better areas to live. Three goals would be achieved from the data visualizations:
-- Provide an overview of the distribution of the qualities that users (MSc Data Science students) may considered by local authorities. 
+- Provide an overview of the distribution of the qualities (residents’ age and job opportunities) that users (MSc Data Science students) may considered by local authorities. 
 - Use dimensionality reductions and clustering methods to categorise the local authorities into clusters based on the related qualities, for users to understand the correlations between qualities and characteristics of each cluster. This could help them to select the target cluster.
 - Select the best local authorities that perform better in most of the related qualities.
+
+<img src="images/images/Screenshot%20Geospatial.png?raw=true" />
+The cluster of local authorities in red colour had the best performance except higher unemployment rate. 
 
 The results show that:
 - The local authorities in the target clusters are mostly located in London/South East regions, which consists of 55 out of 85 (65%) local authorities in the target clusters (London=29, South East=26). If East of England is also included, the proportion is increased to 66 out of 85 (78%). It could be concluded that top local authorities for the users were concentrated around London area.
 - It might not be worthwhile to live in local authorities in the target clusters that are far from London. These local authorities do not have many neighbouring local authorities in the same target cluster (the highest number is 4 in Greater Manchester), so users may not be benefited from relevant job opportunities and have friends of similar age range from neighbouring local authorities, while they can have these advantages in local authorities around London.
 - Low unemployment rate and higher proportion of population in similar age range should not be overly pursued. From one of the low dimension representation variables, it was discovered that unemployment rate was positively correlated with the proportion of population aged 25-34. Therefore, a balance between the two requirements should be achieved, as a local authority that did well in one aspect was likely to be awful in another aspect.
+
+![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) ![](https://img.shields.io/badge/PyTorch-white?logo=pytorch) ![](https://img.shields.io/badge/Twitter-white?logo=Twitter) ![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)
 
 [Download Tableau visualisation](https://timwsh.github.io/projects/Geospatial%20and%20cluster%20analysis%20of%20the%20best%20places%20to%20live.twbx)
 
