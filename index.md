@@ -61,24 +61,25 @@ The results show that:
 ---
 
 ## Previous commercial projects
-A selection of analytical projects on company's internal data.
+A selection of analytical projects on the company's internal data.
 
-#### ETL, Data warehousing and KPI reporting automation:
+### ETL, Data warehousing and KPI reporting automation:
 - Carried out ETL and data cleaning on internal data from different departments to form a data warehouse for further analysis.
 - Automated KPI metrics calculation and visualization for KPI reporting.
 
-##### Achievement: 
+#### Achievements: 
 - Utilised SQL, SPSS scripts and Alteryx to reduce the KPI metrics calculation time by 40%, from 5 to 3 days.
+- Enabled the KPI metrics calculation to be handled by colleagues with less programming experience by highlighting key values in scripts to be changed and showing workflow in Alteryx, to optimise human resource allocation.
 
  ![](https://img.shields.io/badge/SPSS-white?logo=spss) ![](https://img.shields.io/badge/Microsoft_SQL_Server-white?logo=microsoftsqlserver) ![](https://img.shields.io/badge/Alteryx-white?logo=alteryx) ![](https://img.shields.io/badge/Tableau-white?logo=tableau) 
 
-#### Forecasting (simulation): 
+### Forecasting (simulation): 
 - Forecasted club members’ age and other interlocking demographic distributions in the next 3 decades to evaluate the impact of baby boomer on the club’s member composition and estimate the lifetime value of members.
 - Conducted by taking incoming and outgoing rate of citizens by interlocking demographic as assumptions, and simulating the incoming and outgoing processes year by year.
 
-##### Achievement: 
+#### Achievements: 
 - Predicted the multidimensional demographic changes in the next 3 decades for taking pre-emptive measure.
-- e.g. Increased 50% new membership applications to be processed for additional entrance fee, subscription fee and business to prepare for the upcoming inactivity of members from baby boomer.
+- e.g. Increased 50% new membership applications to be processed (300 to 450 per year) for additional entrance fee, subscription fee and business to prepare for the upcoming inactivity of members from baby boomer.
 
  ![](https://img.shields.io/badge/SPSS-white?logo=spss) 
 
