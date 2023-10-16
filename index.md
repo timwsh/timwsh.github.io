@@ -23,19 +23,19 @@ The results show that if higher salary is desired but affordability for housing 
 - For higher disposable income, you may consider St Albans in Hertfordshire, Copeland in Cumbria, and Surrey County to take advantage of the high pay jobs.
 - For young age and low suicide rate, Thurrock from Essex is outstanding.
 - For overall performance for the rent paid, other than Cumbria County and Thurrock mentioned above, local authorities in the outskirts of London (South East and East of England) can be the choices.
-- Fareham is a new discover. Located between Portsmouth and Southampton, it is benefitted from the job opportunities from these 2 cities.
+- Fareham is a new discovery. Located between Portsmouth and Southampton, it is benefitted from the job opportunities from these 2 cities.
 
 <img src="images/Gross Annual Pay vs Flat Price.png?raw=true" /><img src="images/Median gross annual pay.png?raw=true" /><img src="images/Median flat price.png?raw=true" />
 <p float="left">
-  <img src="images/Gross Annual Pay vs Flat Price.png" width="100" />
-  <img src="images/Median gross annual pay.png" width="100" /> 
-  <img src="images/Median flat price.png" width="100" />
+  <img src="images/Gross Annual Pay vs Flat Price.png" width="200" />
+  <img src="images/Median gross annual pay.png" width="200" /> 
+  <img src="images/Median flat price.png" width="200" />
 </p>
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on Github](https://github.com/timwsh/Timothy-Wong-MSc-DS-Project)
+[View code on Colab](https://colab.research.google.com/drive/1Vj53p-w16v3OoBsme0MPQ5MMUCSPCMuj?usp=sharing)
 
 ---
 
