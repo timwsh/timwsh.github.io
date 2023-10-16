@@ -10,7 +10,7 @@ This github repository consists of all the data, models and python code to recre
 
 <img src="images/New plan3.drawio.png?raw=true" />
 
-![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) ![](https://img.shields.io/badge/pandas-white?logo=#150458)
+![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) ![](https://img.shields.io/badge/pandas-white?logo=pandas)
 
 
 
