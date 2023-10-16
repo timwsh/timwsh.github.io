@@ -40,7 +40,7 @@ This data visualisation work on Tableau is an follow-up of the previous project.
 - Use dimensionality reductions and clustering methods to categorise the local authorities into clusters based on the related qualities, for users to understand the correlations between qualities and characteristics of each cluster. This could help them to select the target cluster.
 - Select the best local authorities that perform better in most of the related qualities.
 
-<img src="images/images/Screenshot%20Geospatial.png?raw=true" />
+<img src="images/Screenshot%20Geospatial.png?raw=true" />
 The cluster of local authorities in red colour had the best performance except higher unemployment rate. 
 
 The results show that:
