@@ -12,6 +12,8 @@ This github repository consists of all the data, models and python code to recre
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)] [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)] [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)] [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)] [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)]
+
 [View code on Github](https://github.com/timwsh/Timothy-Wong-MSc-DS-Project)
 
 ---
@@ -47,6 +49,7 @@ The results show that:
 - Low unemployment rate and higher proportion of population in similar age range should not be overly pursued. From one of the low dimension representation variables, it was discovered that unemployment rate was positively correlated with the proportion of population aged 25-34. Therefore, a balance between the two requirements should be achieved, as a local authority that did well in one aspect was likely to be awful in another aspect.
 
 [View code on Colab](https://colab.research.google.com/drive/1EdOiXYT7_rGyrwLk7beHGip5EtUA438y?usp=sharing)
+
 [Download Tableau visualisation](https://timwsh.github.io/projects/Geospatial%20and%20cluster%20analysis%20of%20the%20best%20places%20to%20live.twbx)
 
 [View report (pdf)](https://timwsh.github.io/pdf/Geospatial%20and%20cluster%20analysis%20of%20the%20best%20places%20to%20live.pdf)
