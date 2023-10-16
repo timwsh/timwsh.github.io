@@ -60,13 +60,15 @@ The results show that:
 
 ---
 
-## Skills-based projects
-A selection of smaller projects demonstrating specific data science and ML skills.
+## Previous commercial projects
+A selection of analytical projects on company's internal data.
 
-- [Working in the cloud: Using data stored in AWS S3 buckets](#)
-- [Optimising code with multiprocessing](#)
+#### ETL, Data warehousing and KPI reporting automation:
+- Carried out ETL and data cleaning on internal data from different departments to form a data warehouse for further analysis.
+- Automated KPI metrics calculation and visualization for KPI reporting.
+- Achievement: Utilised SQL, SPSS scripts and Alteryx to reduce the KPI metrics calculation time by 40%, from 5 to 3 days.
 
-
+ ![](https://img.shields.io/badge/SPSS-white?logo=spss) ![](https://img.shields.io/badge/Microsoft_SQL_Server-white?logo=microsoftsqlserver) ![](https://img.shields.io/badge/Alteryx-white?logo=Alteryx) ![](https://img.shields.io/badge/Tableau-white?logo=tableau) 
 
 
 
