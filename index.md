@@ -26,13 +26,7 @@ The results show that if higher salary is desired but affordability for housing 
 - Fareham is a new discovery. Located between Portsmouth and Southampton, it is benefitted from the job opportunities from these 2 cities.
 
 <img src="images/Gross Annual Pay vs Flat Price.png?raw=true" />
-<!--
-<p float="left">
-  <img src="images/Gross Annual Pay vs Flat Price.png" width="200" />
-  <img src="images/Median gross annual pay.png" width="200" /> 
-  <img src="images/Median flat price.png" width="200" />
-</p>
--->
+
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
@@ -53,7 +47,8 @@ The results show that:
 - Low unemployment rate and higher proportion of population in similar age range should not be overly pursued. From one of the low dimension representation variables, it was discovered that unemployment rate was positively correlated with the proportion of population aged 25-34. Therefore, a balance between the two requirements should be achieved, as a local authority that did well in one aspect was likely to be awful in another aspect.
 
 [Download Tableau visualisation](https://timwsh.github.io/projects/Geospatial%20and%20cluster%20analysis%20of%20the%20best%20places%20to%20live.twbx)
-[View report (pdf)](https://colab.research.google.com/drive/1Vj53p-w16v3OoBsme0MPQ5MMUCSPCMuj?usp=sharing)
+
+[View report (pdf)](https://timwsh.github.io/pdf/Geospatial%20and%20cluster%20analysis%20of%20the%20best%20places%20to%20live.twbx)
 
 
 
