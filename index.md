@@ -61,6 +61,8 @@ The results show that:
 ## Previous commercial projects
 A selection of analytical projects on the company's internal data.
 
+---
+
 #### ETL, Data warehousing and KPI reporting automation:
 - Carried out ETL and data cleaning on internal data from different departments to form a data warehouse for further analysis.
 - Automated KPI metrics calculation and visualization for KPI reporting.
@@ -71,6 +73,7 @@ Achievements:
 
  ![](https://img.shields.io/badge/SPSS-white?logo=spss) ![](https://img.shields.io/badge/Microsoft_SQL_Server-white?logo=microsoftsqlserver) ![](https://img.shields.io/badge/Alteryx-white?logo=alteryx) ![](https://img.shields.io/badge/Tableau-white?logo=tableau) 
 
+---
 
 #### Forecasting (simulation): 
 - Forecasted club members’ age and other interlocking demographic distributions in the next 3 decades to evaluate the impact of baby boomer on the club’s member composition and estimate the lifetime value of members.
