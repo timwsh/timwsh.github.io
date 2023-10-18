@@ -35,7 +35,7 @@ The results show that if higher salary is desired but affordability for housing 
 
 ### Geospatial and cluster analysis of the best places for Data Science graduates to live in England and Wales
 
-This data visualisation work on Tableau is an follow-up of the previous project. It aims to utilised the visualization of geospatial data and culster analysis to provide necessary and relevant information for the users (MSc Data Science students) for the decision process of selecting better areas to live. Three goals would be achieved from the data visualizations:
+This data visualisation work on Tableau is a follow-up of the previous project. It aims to utilised the visualization of geospatial data and cluster analysis to provide necessary and relevant information for the users (MSc Data Science students) for the decision process of selecting better areas to live. Three goals would be achieved from the data visualizations:
 - Provide an overview of the distribution of the qualities (residents’ age and job opportunities) that users (MSc Data Science students) may considered by local authorities. 
 - Use dimensionality reductions and clustering methods to categorise the local authorities into clusters based on the related qualities, for users to understand the correlations between qualities and characteristics of each cluster. This could help them to select the target cluster.
 - Select the best local authorities that perform better in most of the related qualities.
